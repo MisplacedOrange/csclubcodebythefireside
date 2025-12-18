@@ -1,1 +1,1 @@
-# csclubcodebythefireside
+# CS Club's Code by the Fireside Submission
