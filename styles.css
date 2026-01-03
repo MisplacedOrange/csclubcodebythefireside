@@ -176,9 +176,9 @@ body {
 }
 
 .filter-btn.active {
-    background: #fff;
-    color: #000;
-    border-color: #fff;
+    background: #333;
+    color: #fff;
+    border-color: #666;
     box-shadow: none;
 }
 
